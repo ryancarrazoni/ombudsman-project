@@ -1,2 +1,2 @@
 # Projeto Ouvidoria
- Primeiro código de um aplicativoem PYTHON 
+ Primeiro código de um aplicativo em PYTHON 
